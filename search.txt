@@ -1,0 +1,16 @@
+根据搜索结果，以下是特斯拉汽车2024年度的月度销售额数据（部分数据为季度数据）：
+
+**Labels (Months/Quarters):**
+- Q1 (January - March)
+- Q2 (April - June)
+- Q3 (July - September)
+- Q4 (October - December)
+
+**Label: "Sales"**
+**Data:**
+- Q1: 386,810
+- Q2: 443,956
+- Q3: 462,890
+- Q4: 495,570
+
+如果需要更详细的月度数据，可以提供更具体的查询需求。
