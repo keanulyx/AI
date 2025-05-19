@@ -1,3 +1,3 @@
-title=AI
+title=Missle range
 missle=[Patriot PAC-3,Patriot PAC-3 MSE,SM-6 Block I,THAAD,SM-6 Block IB]
 NUMBER=[35,60,240,300,370]
